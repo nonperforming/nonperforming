@@ -1,6 +1,6 @@
 # 👋 Hi. Welcome to my profile.
 [![Non's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonperforming&show_icons=true&theme=radical&count_private=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonperforming&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonperforming)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--### Hi there 👋
 
